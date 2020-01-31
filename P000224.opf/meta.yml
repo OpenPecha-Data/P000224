@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ཐོས་པའི་རིམ་པ་ཕྱེ་བ། །
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: RDI-TOK-06-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Graduated Exposition of Classical Studies
+    bo: ཐོས་པའི་རིམ་པར་ཕྱེ་བ།
+  collection:
+    en: Treasury of Knowledge–  Book 6
+    bo: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད།–  དེབ། ༦
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-TOK-06-1
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-TOK-06-1.epub
+  description:
+    en: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད། གནས་དྲུག་པ།
+    bo: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད། གནས་དྲུག་པ།
